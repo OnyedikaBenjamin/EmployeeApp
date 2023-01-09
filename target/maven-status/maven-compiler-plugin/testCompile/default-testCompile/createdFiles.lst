@@ -1,0 +1,5 @@
+africa/semicolon/employeemanagement/EmployeeManagementApplicationTest.class
+africa/semicolon/employeemanagement/EmployeeManagementApplicationTests.class
+africa/semicolon/employeemanagement/service/EmployeeServiceTest.class
+africa/semicolon/employeemanagement/data/repository/EmployeeRepositoryTest.class
+africa/semicolon/employeemanagement/web/controller/EmployeeControllerTest.class
